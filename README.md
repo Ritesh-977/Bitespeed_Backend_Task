@@ -71,12 +71,7 @@ src/
 └── test.ts        # Automated test scenarios
 ```
 
-## Hosting
+## Host Link
 
-To deploy on [Render](https://render.com):
+Deployed link [Link](https://bitespeed-backend-task-vezi.onrender.com/)
 
-1. Push to GitHub
-2. Create a new Web Service on Render
-3. Set build command: `npm install && npm run build`
-4. Set start command: `npm start`
-5. Set environment variable `PORT` if needed
